@@ -1,0 +1,1 @@
+C:\Users\VidhyaSriVenmathi\AppData\Roaming\Python\Python311\Scripts\streamlit run app.py
